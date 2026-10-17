@@ -1,1 +1,1 @@
-# DAV-covid19-project
+# DAV-project
